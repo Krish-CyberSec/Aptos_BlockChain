@@ -45,3 +45,10 @@ Our vision is to democratize NFT trading by creating an accessible, secure, and 
 - **Educational Platform**: Develop resources to educate users about NFT investing and blockchain technology
 - **Analytics Dashboard**: Provide market insights and trading analytics for informed decision-making
 - **Insurance Integration**: Offer protection mechanisms for high-value NFT transactions
+
+### Transaction Hash :0xb9e38bba76494c504f6ba0c7eb4780d662af071d3f6ae6cce8893f7a48eab483
+
+<img width="1722" height="2890" alt="image" src="https://github.com/user-attachments/assets/ab333bbc-45b2-4e6f-a367-5e9de719727c" />
+
+
+
