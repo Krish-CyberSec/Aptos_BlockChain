@@ -1,0 +1,15 @@
+[package]
+name = "Aptos-Bootcamp"
+version = "1.0.0"
+authors = []
+
+[addresses]
+nft_auction_house="0x696a4af74591453a4ccd59f6612971fa26bc5cd0a1159b4ed8f4f64e7a484a5f"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
